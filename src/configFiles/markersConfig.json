@@ -1,0 +1,58 @@
+{
+  "markers": [
+    {
+      "id": 1,
+      "color": "red",
+      "tags": "Palestine",
+      "location": {
+        "lat": 31.7683,
+        "lng": 35.2137
+      }
+    },
+    {
+      "id": 2,
+      "color": "blue",
+      "tags": "Syria",
+      "location": {
+        "lat": 35.7683,
+        "lng": 39.2137
+      }
+    },
+    {
+      "id": 3,
+      "color": "red",
+      "tags": "Egypt",
+      "location": {
+        "lat": 28.7683,
+        "lng": 32.2137
+      }
+    },
+    {
+      "id": 4,
+      "color": "green",
+      "tags": "Chad",
+      "location": {
+        "lat": 19.7683,
+        "lng": 20.2137
+      }
+    },
+    {
+      "id": 5,
+      "color": "yellow",
+      "tags": "Turkey",
+      "location": {
+        "lat": 39.7683,
+        "lng": 35.2137
+      }
+    },
+    {
+      "id": 6,
+      "color": "orange",
+      "tags": "Azerbaijan",
+      "location": {
+        "lat": 39.7683,
+        "lng": 50.2137
+      }
+    }
+  ]
+}
